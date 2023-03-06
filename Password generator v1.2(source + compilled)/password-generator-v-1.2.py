@@ -38,7 +38,7 @@ def generate_password():
 
 # Создаем окно
 window = tk.Tk()
-window.title("Pass Generator by Pushkin v1.1")
+window.title("Pass Generator by Pushkin v1.2")
 
 # Создаем метку для выбора длины пароля
 password_length_label = tk.Label(window, text="Длина пароля:")
